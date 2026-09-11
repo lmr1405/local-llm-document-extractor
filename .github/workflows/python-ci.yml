@@ -25,5 +25,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Comprobar sintaxis
-        run: |
-          python -m compileall .
+        run: python -m compileall .
+
+      - name: Ejecutar tests
+        run: python -m pytest
