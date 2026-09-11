@@ -1,10 +1,16 @@
 # Local LLM Document Extractor
 Aplicacion desarrollada en Python que utiliza un modelo de lenguaje local mediante  
 la API de Ollama para extraer informacion estructurada de documentos PDF.
-  
+
+<img src="./img/arq_fac.jpg"
+     alt="Arquitectura del proyecto"
+     width="250"
+     align="right"
+     hspace="15">
+     
 ## Descripcion
 Este proyecto muestra como ejecutar un modelo de lenguaje de gran tamaño (LLM) de forma local  
-e interactuar con el mediante una API.
+e interactuar con el mediante una API. 
   
 ## Objetivo
 El objetivo principal es explorar el uso de modelos de lenguajes locales para el procesamiento  
